@@ -25,288 +25,267 @@
             ]
         },
         {
-            "lable": "what is min voting age ?",
+            "lable": "How can a datatype be declared to be a constant type?",
             "id":"q002",
             "options": [
                 {
                     "id":"q002-op1",
-                    "A": "18"
+                    "A": "let"
                 },
                 {
                     "id":"q002-op2",
-                    "B": "21"
+                    "B": "const"
                 },
                 {
                     "id":"q002-op3",
-                    "C": "22"
+                    "C": "get"
                 },
                 {
                     "id":"q002-op4",
-                    "D": "23"
+                    "D": "var"
                 }
             ]
         },
+       
         {
-            "lable": "what is min voting age ?",
-            "id":"q002",
-            "options": [
-                {
-                    "id":"q002-op1",
-                    "A": "18"
-                },
-                {
-                    "id":"q002-op2",
-                    "B": "21"
-                },
-                {
-                    "id":"q002-op3",
-                    "C": "22"
-                },
-                {
-                    "id":"q002-op4",
-                    "D": "23"
-                }
-            ]
-        },
-        {
-            "lable": "what is min voting age ?",
+            "lable": "What keyword is used to check whether a given property is valid or not?",
             "id":"q003",
             "options": [
                 {
                     "id":"q003-op1",
-                    "A": "18"
+                    "A": "in"
                 },
                 {
                     "id":"q003-op2",
-                    "B": "21"
+                    "B": "exist"
                 },
                 {
                     "id":"q003-op3",
-                    "C": "22"
+                    "C": "is in"
                 },
                 {
                     "id":"q003-op4",
-                    "D": "23"
+                    "D": "non"
                 }
             ]
         },
         {
-            "lable": "what is min voting age ?",
+            "lable": " When an operator’s value is NULL, the typeof returned by the unary operator is?",
             "id":"q004",
             "options": [
                 {
                     "id":"q004-op1",
-                    "A": "18"
+                    "A": "boolen"
                 },
                 {
                     "id":"q004-op2",
-                    "B": "21"
+                    "B": "object"
                 },
                 {
                     "id":"q004-op3",
-                    "C": "22"
+                    "C": "integer"
                 },
                 {
                     "id":"q004-op4",
-                    "D": "23"
+                    "D": "undefing"
                 }
             ]
         },
         {
-            "lable": "what is min voting age ?",
+            "lable": "What is the output of the following code snippet? print(NaN === NaN); ?",
             "id":"q005",
             "options": [
                 {
                     "id":"q005-op1",
-                    "A": "18"
+                    "A": "true"
                 },
                 {
                     "id":"q005-op2",
-                    "B": "21"
+                    "B": "false"
                 },
                 {
                     "id":"q005-op3",
-                    "C": "22"
+                    "C": "undefind"
                 },
                 {
                     "id":"q005-op4",
-                    "D": "23"
+                    "D": "non"
                 }
             ]
         },
         {
-            "lable": "what is min voting age ?",
+            "lable": "The 3 basic object attributes in Javascript are: ?",
             "id":"q006",
             "options": [
                 {
                     "id":"q006-op1",
-                    "A": "18"
+                    "A": "class,prototype,object,extensible flag"
                 },
                 {
                     "id":"q006-op2",
-                    "B": "21"
+                    "B": "class,object,extensible flag"
                 },
                 {
                     "id":"q006-op3",
-                    "C": "22"
+                    "C": "prototype,object,extensible flag"
                 },
                 {
                     "id":"q006-op4",
-                    "D": "23"
+                    "D": "class,prototype,object"
                 }
             ]
         },
         {
-            "lable": "what is min voting age ?",
+            "lable": "Which function is used to serialize an object into a JSON string in Javascript?",
             "id":"q007",
             "options": [
                 {
                     "id":"q007-op1",
-                    "A": "18"
+                    "A": "stringify()"
                 },
                 {
                     "id":"q007-op2",
-                    "B": "21"
+                    "B": "convert()"
                 },
                 {
                     "id":"q007-op3",
-                    "C": "22"
+                    "C": "object"
                 },
                 {
                     "id":"q007-op4",
-                    "D": "23"
+                    "D": "non"
                 }
             ]
         },
         {
-            "lable": "what is min voting age ?",
+            "lable": " Javascript is an _______ language?  ?",
             "id":"q008",
             "options": [
                 {
                     "id":"q008-op1",
-                    "A": "18"
+                    "A": "object orient"
                 },
                 {
                     "id":"q008-op2",
-                    "B": "21"
+                    "B": "object data "
                 },
                 {
                     "id":"q008-op3",
-                    "C": "22"
+                    "C": "object "
                 },
                 {
                     "id":"q008-op4",
-                    "D": "23"
+                    "D": "object base"
                 }
             ]
         },
         {
-            "lable": "what is min voting age ?",
+            "lable": " Which of the following are closures in Javascript?",
             "id":"q009",
             "options": [
                 {
                     "id":"q009-op1",
-                    "A": "18"
+                    "A": "variable"
                 },
                 {
                     "id":"q009-op2",
-                    "B": "21"
+                    "B": "function"
                 },
                 {
                     "id":"q009-op3",
-                    "C": "22"
+                    "C": "object"
                 },
                 {
                     "id":"q009-op4",
-                    "D": "23"
+                    "D": "all"
                 }
             ]
         },
         {
-            "lable": "what is min voting age ?",
+            "lable": "Which of the following is not a Javascript framework?",
             "id":"q010",
             "options": [
                 {
                     "id":"q010-op1",
-                    "A": "18"
+                    "A": "node"
                 },
                 {
                     "id":"q010-op2",
-                    "B": "21"
+                    "B": "vot"
                 },
                 {
                     "id":"q010-op3",
-                    "C": "22"
+                    "C": "react"
                 },
                 {
                     "id":"q010-op4",
-                    "D": "23"
+                    "D": "cassandra"
                 }
             ]
         },
         {
-            "lable": "what is min voting age ?",
+            "lable": "  How to stop an interval timer in Javascript?",
             "id":"q011",
             "options": [
                 {
                     "id":"q011-op1",
-                    "A": "18"
+                    "A": "clearInterval"
                 },
                 {
                     "id":"q011-op2",
-                    "B": "21"
+                    "B": "clearTimer"
                 },
                 {
                     "id":"q011-op3",
-                    "C": "22"
+                    "C": "clear"
                 },
                 {
                     "id":"q011-op4",
-                    "D": "23"
+                    "D": "non"
                 }
             ]
         },
         {
-            "lable": "what is min voting age ?",
+            "lable": "What keyword is used to declare an asynchronous function in Javascript ?",
             "id":"q012",
             "options": [
                 {
                     "id":"q012-op1",
-                    "A": "18"
+                    "A": "async"
                 },
                 {
                     "id":"q012-op2",
-                    "B": "21"
+                    "B": "setTimeout"
                 },
                 {
                     "id":"q012-op3",
-                    "C": "22"
+                    "C": "set"
                 },
                 {
                     "id":"q012-op4",
-                    "D": "23"
+                    "D": "non"
                 }
             ]
         },
         {
-            "lable": "what is min voting age ?",
+            "lable": " How do we write a comment in javascript ?",
             "id":"q013",
             "options": [
                 {
                     "id":"q013-op1",
-                    "A": "18"
+                    "A": "/*?*"
                 },
                 {
                     "id":"q013-op2",
-                    "B": "21"
+                    "B": "<>"
                 },
                 {
                     "id":"q013-op3",
-                    "C": "22"
+                    "C": "//"
                 },
                 {
                     "id":"q013-op4",
-                    "D": "23"
+                    "D": "<-->"
                 }
             ]
         },
@@ -316,19 +295,19 @@
             "options": [
                 {
                     "id":"q014-op1",
-                    "A": "18"
+                    "A": "hyper text marquup langauge"
                 },
                 {
                     "id":"q014-op2",
-                    "B": "21"
+                    "B": "hyper text marquup"
                 },
                 {
                     "id":"q014-op3",
-                    "C": "22"
+                    "C": "text marquup langauge"
                 },
                 {
                     "id":"q014-op4",
-                    "D": "23"
+                    "D": "non"
                 }
             ]
         },
@@ -338,19 +317,19 @@
             "options": [
                 {
                     "id":"q015-op1",
-                    "A": "18"
+                    "A": "Cascading Style Sheets "
                 },
                 {
                     "id":"q015-op2",
-                    "B": "21"
+                    "B": "Cascading Style style ("
                 },
                 {
                     "id":"q015-op3",
-                    "C": "22"
+                    "C": "Cascading sheets Sheets ("
                 },
                 {
                     "id":"q015-op4",
-                    "D": "23"
+                    "D": "Cascading Style "
                 }
             ]
         }
@@ -358,19 +337,19 @@
     ],
     "answers":{
         "q001":"q001-op4",
-        "q002":"",
-        "q003":"",
-        "q004":"",
-        "q005":"",
-        "q006":"",
-        "q007":"",
-        "q008":"",
-        "q009":"",
-        "q010":"",
-        "q011":"",
-        "q012":"",
-        "q013":"",
-        "q014":"",
-        "q015":""
+        "q002":"q002-op2",
+        "q003":"q003-op1",
+        "q004":"q004-op2",
+        "q005":"005-op2",
+        "q006":"q006-op1",
+        "q007":"q007-op1",
+        "q008":"q008-op1",
+        "q009":"q009-op4",
+        "q010":"q010-op4",
+        "q011":"q011-op1",
+        "q012":"q012-op1",
+        "q013":"q013-op3",
+        "q014":"q014-op1",
+        "q015":"q015-op1"
     }
 }
